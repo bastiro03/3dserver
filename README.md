@@ -1,13 +1,4 @@
-<h3>🚨 This Readme is under construction 🚨<h3>
+![Under Construction](https://web.archive.org/web/20090726024726im_/http://de.geocities.com/hook_monkey/Baustelle-1.gif)
 
-____________________________________________________
-
-
-This project is based on [shopdeck](https://github.com/Aftendo/shopdeck) by [Aftendo](https://github.com/Aftendo), **but is in no way related to it**.
-
-**[Aftendo](https://github.com/Aftendo) _does not support this project_** in any way, and will not help you with it, please contact [Ghost Land Team](https://github.com/ghost-land/3dserver/issues) and not [Aftendo](https://github.com/Aftendo) for [3dserver](https://github.com/ghost-land/3dserver) !!!
-
-
-____________________________________________________
-
-<h3>🚨 This Readme is under construction 🚨<h3>
+A work-in-progress 3DS eShop revival. Originally made by [Ghost Land](https://ghostland.at/) and based on [shopdeck](https://github.com/Aftendo/shopdeck).
+After the former took down their GitHub repository, the ownership was apparently transferred to me for some reason. 
